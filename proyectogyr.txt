@@ -1,4 +1,6 @@
 <html>
 Hola Mundo xd
 nose como se hace xd 
+nav xd 
+footer 
 <html>
